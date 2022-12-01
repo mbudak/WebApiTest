@@ -47,3 +47,5 @@ All record queries and Exception saving in the logger db.
 I decided to implement separate inMemoryDatabase for logging. Because we don't need siteId and companyId for a key, instead we only need Guid.
 
 
+### Postman Collection ###
+Postman collection file can be found in root directory.
